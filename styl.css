@@ -1,0 +1,22 @@
+
+
+body{
+    text-align: center;
+    background-color:rgb(250, 241, 194);
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(202, 205, 233);
+}
+.center{
+    text-align: center;
+    background-color:rgb(250, 225, 238);
+}
+button{
+color: rgb(7, 3, 44);
+}
+label{
+    font-size: 30px;
+    color:  rgb(147, 147, 237);
+}
